@@ -1,0 +1,16 @@
+AWS- Amazon Web Service
+What is cloud computing-
+      -  Compute resources as rent.
+        -  what is cloud?
+            -cloud refers the servers that can be accessed over the internet to run our applications as well as store our information like a personell computer.
+            - cloud give us access to access our data on a minutes at anywhere in the worls with a single ip address.
+            -cloud provide environment to access the highseed internet access.
+            -the cloud also provide security to our data.
+          -  provide ondemand scaleup and scaledown facility.
+            -  what is on-demand scaleup and scaledown-
+                -AWS provide the customers a portable or we can say like it provide the customer,variable environment to use or utilise the resources.
+                -Like if some customer some perticular services on some timelimit then the AWS provide their resources only for that perticula time duration . no other charges can be apply on that services.
+                -if user stop these services then the AWS does not charge the ammount over the services which was taken by that user.
+                -in earlier 2009 if some copeny or some user want to access the cloud then that compeny or that user have to take that services on lease on perticular time duration.in such situation if customer not able to use these resources that time there wasnt any soft corner by service provider to reduce the bill .
+                -if customer take some cloud on rent that time any how its mandetory to pay all charges to the service provider.
+                -AWS introduce the ondemand scaleup and scaledown facility to users in that the customer have to pay only that much ammount which is used by user. user not worry about the the time in which the user stope the services the AWS only pay for tha harddisk charges by that customer.
