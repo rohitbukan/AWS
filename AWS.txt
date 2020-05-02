@@ -1,4 +1,4 @@
-# Heading 1 AWS- Amazon Web Service
+AWS- Amazon Web Service
 What is cloud computing-
       -  Compute resources as rent.
         -  what is cloud?
