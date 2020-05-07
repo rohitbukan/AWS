@@ -1,0 +1,19 @@
+Ami- -  1)An AMI image is a backup of an entire EC2 instance.
+   Associated with an AMI image are EBS snapshots. 
+  Those EBS snapshots are the backups of the individual 
+  EBS volumes attached to the EC2 instance at the time 
+  the AMI image was created.
+
+  2)If your restore objective is to create a fresh EC2 
+  instance quickly to replace a failed EC2 instance, then 
+  creating AMI images is definitely the way to go
+
+Snapshot -1) An EBS snapshot is a backup of a single EBS volume. 
+  The EBS snapshot contains all the data stored on the 
+  EBS volume at the time the EBS snapshot was created.
+  
+  2)Since EBS snapshots can be thought of as incremental, 
+  you only pay for the storage of the changed data.
+
+The process of creating an AMI image will also create EBS snapshots.
+ So even if you need to restore a single EBS volume, you can do so from the individual EBS snapshot.
